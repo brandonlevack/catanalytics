@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Programs/C++/Catanalytics",
-      "program": "d:/Programs/C++/Catanalytics/build/Debug/outDebug",
+      "cwd": "d:/Programs/Python/Catanalytics",
+      "program": "d:/Programs/Python/Catanalytics/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
